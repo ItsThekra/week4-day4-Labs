@@ -1,0 +1,13 @@
+.par {
+    color: white;
+    background-color: blue;
+}
+.tab{
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+.tab th, .tab td {
+    padding: 10px;
+    text-align: center;
+}
