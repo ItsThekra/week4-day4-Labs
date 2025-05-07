@@ -2,12 +2,12 @@
     color: white;
     background-color: blue;
 }
-.tab{
+.styled-table{
     border: 1px solid black;
     width: 100%;
     border-collapse: collapse;
 }
-.tab th, .tab td {
+.styled-table th, .styled-table td {
     padding: 10px;
     text-align: center;
 }
